@@ -3,6 +3,6 @@ module.exports = {
     'vuetify'
   ],
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/vue-js-user-list-test/'
+    ? '/vue-js-user-list-test/docs/'
     : '/'
 }
